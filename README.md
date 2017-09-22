@@ -1,4 +1,4 @@
-## IndicesPrevidenciarios
+## Índices Previdenciários
 
 Complemento do *Google Sheets* com funções customizadas para consulta aos sistemas [SIGRA/IBGE](https://sidra.ibge.gov.br/home/abate/brasil) e [SGS/BACEN](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries).
 
