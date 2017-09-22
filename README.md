@@ -1,8 +1,8 @@
 ## Índices Previdenciários
 
-Complemento do *Google Sheets* com funções customizadas para consulta aos sistemas [SIGRA/IBGE](https://sidra.ibge.gov.br/home/abate/brasil) e [SGS/BACEN](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries).
+Este repositório hospeda o site com a documentação do complemento "*Índices Previdenciários*", desenvolvido em *Google Apps Script* pela **Contadoria**, organização criada no *Github*. O complemento disponibiliza nas planilhas do *Google Sheets* funções customizadas para consulta aos sistemas [SIGRA/IBGE](https://sidra.ibge.gov.br/home/abate/brasil) e [SGS/BACEN](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries).
 
-### Características
+### Características do complemento
 
 * Consultas predefinidas aos índices e taxas mais comuns
 * Possibilidade de delimitar o período da consulta
